@@ -1,0 +1,10 @@
+/build
+/node_modules
+/public
+/docs
+/src
+/.next
+.gitignore
+yarn.lock
+.vscode
+*.log
